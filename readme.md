@@ -13,3 +13,8 @@
 10. [Java Performance Companion](https://www.amazon.com/Java-Performance-Companion-Charlie-Hunt/dp/0133796825?tag=javamysqlanta-20)
 11. [Head First JavaScript](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X?tag=javamysqlanta-20)
 12. [SQL CookBook](https://www.amazon.com/SQL-Cookbook-Solutions-Techniques-Developers/dp/0596009763?tag=javamysqlanta-20)
+13. [Computer Systems: A Programmer's Perspective (3rd Edition)](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+14. [Land of Lisp](https://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812/ref=sr_1_1?s=books&ie=UTF8&qid=1529939965&sr=1-1&keywords=Land+of+Lisp)
+15. [Practical Common Lisp by Peter Seibel]()
+16. [The Art of Prolog by Leon S. Sterling(Second Addition)]()
+17. [Smalltalk]()
