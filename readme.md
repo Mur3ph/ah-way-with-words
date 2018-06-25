@@ -20,4 +20,4 @@
 17. [Smalltalk]()
 18. [Python Essential Reference (4th Edition)](http://redirect.bestprogrammingbooks.com/dp/0672329786)
 19. [Python Cookbook](https://www.amazon.co.uk/Python-Cookbook-David-Beazley/dp/1449340377)
-20. []()
+20. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
