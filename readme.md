@@ -2,7 +2,7 @@
 
 ## Technology Books to get
 1. [Effective Java 3rd Edition](http://www.amazon.com/dp/0321356683/?tag=javamysqlanta-20)
-2. [Java 8/9/10 in Action]()
+2. [Java 8/9/10 in Action](https://www.amazon.co.uk/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?s=books&ie=UTF8&qid=1529942227&sr=1-1&keywords=Java+8+in+action)
 3. [Clean Architecture](http://aax-us-east.amazon-adsystem.com/x/c/QiN3P8aEtvuspKUKKWJIl0QAAAFhEYQFlAEAAAFKAXxrN3E/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=as_at?creativeASIN=0134494164&linkCode=w61&imprToken=iV-VWYtiFdkY3Gzdi0E9Gg&slotNum=2&tag=javamysqlanta-20)
 4. [Clean Code](http://javarevisited.blogspot.sg/2017/10/clean-code-by-uncle-bob-book-review.html)
 5. [The Clean Coder](http://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
@@ -18,3 +18,6 @@
 15. [Practical Common Lisp by Peter Seibel]()
 16. [The Art of Prolog by Leon S. Sterling(Second Addition)]()
 17. [Smalltalk]()
+18. [Python Essential Reference (4th Edition)](http://redirect.bestprogrammingbooks.com/dp/0672329786)
+19. [Python Cookbook](https://www.amazon.co.uk/Python-Cookbook-David-Beazley/dp/1449340377)
+20. []()
