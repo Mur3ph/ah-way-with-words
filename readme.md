@@ -21,3 +21,6 @@
 18. [Python Essential Reference (4th Edition)](http://redirect.bestprogrammingbooks.com/dp/0672329786)
 19. [Python Cookbook](https://www.amazon.co.uk/Python-Cookbook-David-Beazley/dp/1449340377)
 20. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
+21. [Neo4j Cookbook](https://www.amazon.co.uk/Neo4j-Cookbook-Ankur-Goel/dp/178328725X)
+22. [Seven Databases in Seven Weeks](https://www.amazon.co.uk/Seven-Databases-Weeks-2e/dp/1680502530/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1530008882&sr=1-1-fkmr1&keywords=Seven+Databases+in+Seven+Days)
+22. [Seven Languages in Seven Weeks](https://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=193435659X&pd_rd_r=04997e2e-792c-11e8-8726-d91f82847179&pd_rd_w=5Wzby&pd_rd_wg=cqBrp&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3274180622111699416&pf_rd_r=4R98YA0Z65HJVJHWGWR0&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=4R98YA0Z65HJVJHWGWR0)
